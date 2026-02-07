@@ -149,3 +149,13 @@ npm run dev
 
 
 </div>
+
+<img width="1911" height="1013" alt="Ekran görüntüsü 2026-02-07 221445" src="https://github.com/user-attachments/assets/67d7b0b5-260c-4b2a-a553-b8589e04cc6a" />
+<img width="1917" height="911" alt="Ekran görüntüsü 2026-02-07 222131" src="https://github.com/user-attachments/assets/78fb01ea-37f6-422d-acc6-ee0da7b023e9" />
+<img width="1919" height="1021" alt="Ekran görüntüsü 2026-02-07 221502" src="https://github.com/user-attachments/assets/846d037e-efed-4ea3-8ffc-c40634248221" />
+<img width="1919" height="1019" alt="Ekran görüntüsü 2026-02-07 221540" src="https://github.com/user-attachments/assets/4ec29962-ee39-4042-a871-2f4f69c90c1e" />
+<img width="1919" height="1019" alt="Ekran görüntüsü 2026-02-07 221658" src="https://github.com/user-attachments/assets/7c81c54d-921c-44cd-8fe8-c069ab97b6fe" />
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-02-07 221914" src="https://github.com/user-attachments/assets/c65c6574-1c8b-4e85-b884-b9038d296631" />
+<img width="1911" height="1019" alt="Ekran görüntüsü 2026-02-07 221928" src="https://github.com/user-attachments/assets/db5f23c4-c3fa-438f-9318-6e52dc75a98c" />
+<img width="1914" height="1021" alt="Ekran görüntüsü 2026-02-07 221953" src="https://github.com/user-attachments/assets/f571ebeb-6052-415b-8573-f83893f526f8" />
+
