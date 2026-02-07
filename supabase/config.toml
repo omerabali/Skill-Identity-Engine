@@ -1,0 +1,7 @@
+project_id = "mbvalzyxmcjrzuvkbspz"
+
+[functions.ocr-pdf]
+verify_jwt = false
+
+[functions.ai-career-coach]
+verify_jwt = false
