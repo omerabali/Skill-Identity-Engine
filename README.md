@@ -4,7 +4,7 @@
 <table width="100%">
   <tr>
     <td align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 40px; border-radius: 20px;">
-      <img src="public/logo.png" alt="Skill Identity Engine Logo" width="160" style="margin-bottom: 20px;" />
+      <img src="public/Copy of CV Analysis Visualization.png" alt="Skill Identity Engine Logo" width="160" style="margin-bottom: 20px;" />
       <h1 style="color: #60a5fa; font-size: 3rem; margin: 10px 0;">Skill Identity Engine</h1>
       <p style="color: #94a3b8; font-size: 1.2rem; max-width: 600px;">
         Veri Madenciliği ve Yapay Zeka ile Güçlendirilmiş<br/><b>Yeni Nesil Teknik Kimlik ve Kariyer Operasyon Merkezi</b>
@@ -139,11 +139,13 @@ npm run dev
 </details>
 
 ---
+</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Crafted_with_❤️_by_Antigravity-blue?style=flat-square" />
-  <br/>
-  <sub>Skill Identity Engine - Professional Identity Platform. 2026</sub>
+  <a href="https://www.linkedin.com/in/omerabali" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
+
 
 </div>
